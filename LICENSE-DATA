@@ -1,0 +1,10 @@
+The instance files in instances/ and the files MANIFEST.csv and reference_values.csv are licensed
+under the Creative Commons Attribution 4.0 International license (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+They are derived from Set I of the disjunctively constrained knapsack problem, distributed by
+Z. Wei and J.-K. Hao on Mendeley Data under CC BY 4.0 (doi:10.17632/gb5hhjkygd.1), whose instances were
+introduced by M. Hifi and M. Michrafy (2006) and by Z. Quan and L. Wu (2017). Changes: each instance
+keeps the number of items, the capacity, the profits, the weights and the conflict graph of its source,
+writes the edges sorted, and adds quadratic profits as described in README.md. The reference values
+are computed from the DCKP solution certificates of Wei, Hao, Ren and Glover (2023).
