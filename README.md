@@ -6,8 +6,6 @@ disjunctively constrained knapsack problem (DCKP) and adds quadratic profits dra
 distribution of the classic QKPCG set of Shi et al. (2017). Every instance comes with a reference value
 r obtained from published DCKP solution certificates.
 
-<!-- Agregar aqui la cita del articulo y el DOI de Zenodo cuando existan. -->
-
 ## Contents
 
 | Path | Content |
@@ -77,7 +75,8 @@ python tools/qkpcgl_verify.py instances/20I3_d100.txt solution.txt
 
 ## Sources and citation
 
-When using QKPCG-L, please cite the article that introduces it and the sources of its data:
+When using QKPCG-L, please cite it as indicated in `CITATION.cff` (also available through the
+"Cite this repository" button on GitHub) together with the sources of its data:
 
 - Shi, X., Wu, L., Meng, X. (2017). A new optimization model for the sustainable development: Quadratic
   knapsack problem with conflict graphs. Sustainability 9(2), 236. doi:10.3390/su9020236

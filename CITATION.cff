@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use QKPCG-L, please cite it as below, together with the sources of its data listed in README.md."
+title: "QKPCG-L: large instances of the quadratic knapsack problem with conflict graphs"
+type: dataset
+authors:
+  - family-names: "García"
+    given-names: "José"
+version: "1.0.0"
+date-released: "2026-10-12"
+license:
+  - CC-BY-4.0
+  - MIT
+repository-code: "https://github.com/rubincus/QKPCG-L"
+abstract: >-
+  Fifty instances of the quadratic knapsack problem with conflict graphs with 1500 and 2000 items,
+  derived from Set I of the disjunctively constrained knapsack problem by adding quadratic profits
+  drawn uniformly from {1, ..., 50}. The release includes the generation seeds and SHA-256 digests,
+  reference values obtained from published DCKP solution certificates, and tools to verify solutions,
+  regenerate the instances and recompute the reference values.
+keywords:
+  - quadratic knapsack problem
+  - conflict graph
+  - disjunctively constrained knapsack problem
+  - benchmark instances
+  - combinatorial optimization
