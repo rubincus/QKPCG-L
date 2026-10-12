@@ -1,0 +1,17 @@
+{
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "title": "QKPCG-L: large instances of the quadratic knapsack problem with conflict graphs",
+  "creators": [
+    {"name": "García, José"}
+  ],
+  "description": "<p>Fifty instances of the quadratic knapsack problem with conflict graphs with 1500 and 2000 items, derived from Set I of the disjunctively constrained knapsack problem by adding quadratic profits drawn uniformly from {1, ..., 50}. The release includes the generation seeds and SHA-256 digests, reference values obtained from published DCKP solution certificates, and tools to verify solutions, regenerate the instances and recompute the reference values. The data are distributed under CC BY 4.0 and the tools under the MIT license.</p>",
+  "keywords": [
+    "quadratic knapsack problem",
+    "conflict graph",
+    "disjunctively constrained knapsack problem",
+    "benchmark instances",
+    "combinatorial optimization"
+  ]
+}

@@ -1,5 +1,7 @@
 # QKPCG-L: large instances of the quadratic knapsack problem with conflict graphs
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23325516.svg)](https://doi.org/10.5281/zenodo.23325516)
+
 QKPCG-L contains 50 instances of the quadratic knapsack problem with conflict graphs (QKPCG) with
 n = 1500 and n = 2000 items. Each instance derives from one instance of classes 11-20 of Set I of the
 disjunctively constrained knapsack problem (DCKP) and adds quadratic profits drawn from the
@@ -76,7 +78,13 @@ python tools/qkpcgl_verify.py instances/20I3_d100.txt solution.txt
 ## Sources and citation
 
 When using QKPCG-L, please cite it as indicated in `CITATION.cff` (also available through the
-"Cite this repository" button on GitHub) together with the sources of its data:
+"Cite this repository" button on GitHub):
+
+García, J. (2026). QKPCG-L: large instances of the quadratic knapsack problem with conflict graphs.
+Zenodo. https://doi.org/10.5281/zenodo.23325516 (all versions; version 1.0.1:
+https://doi.org/10.5281/zenodo.23325517)
+
+together with the sources of its data:
 
 - Shi, X., Wu, L., Meng, X. (2017). A new optimization model for the sustainable development: Quadratic
   knapsack problem with conflict graphs. Sustainability 9(2), 236. doi:10.3390/su9020236

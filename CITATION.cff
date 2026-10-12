@@ -6,6 +6,7 @@ authors:
   - family-names: "García"
     given-names: "José"
 version: "1.0.1"
+doi: "10.5281/zenodo.23325516"
 date-released: "2026-10-12"
 license: CC-BY-4.0
 repository-code: "https://github.com/rubincus/QKPCG-L"
