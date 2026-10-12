@@ -5,11 +5,9 @@ type: dataset
 authors:
   - family-names: "García"
     given-names: "José"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-10-12"
-license:
-  - CC-BY-4.0
-  - MIT
+license: CC-BY-4.0
 repository-code: "https://github.com/rubincus/QKPCG-L"
 abstract: >-
   Fifty instances of the quadratic knapsack problem with conflict graphs with 1500 and 2000 items,
